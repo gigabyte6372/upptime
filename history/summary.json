@@ -4,19 +4,19 @@
     "url": "https://lessoulevementsdelaterre.org",
     "icon": "https://icons.duckduckgo.com/ip3/lessoulevementsdelaterre.org.ico",
     "slug": "soul-site-frontal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1059,
-    "timeWeek": 1271,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1280,
+    "timeDay": 1151,
+    "timeWeek": 1280,
+    "timeMonth": 1280,
+    "timeYear": 1280,
     "dailyMinutesDown": {
-      "2025-10-05": 0
+      "2025-10-05": 6
     }
   },
   {
