@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lessoulevementsdelaterre.org.ico",
     "slug": "soul-site-frontal",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1350,
-    "timeDay": 1500,
-    "timeWeek": 1491,
-    "timeMonth": 1350,
-    "timeYear": 1350,
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1376,
+    "timeDay": 1780,
+    "timeWeek": 1493,
+    "timeMonth": 1376,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2025-10-05": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1226,
-    "timeDay": 1390,
-    "timeWeek": 1303,
-    "timeMonth": 1226,
-    "timeYear": 1226,
+    "time": 1239,
+    "timeDay": 1450,
+    "timeWeek": 1367,
+    "timeMonth": 1239,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2025-10-05": 7
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1049,
-    "timeDay": 953,
-    "timeWeek": 954,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "time": 1077,
+    "timeDay": 1477,
+    "timeWeek": 1020,
+    "timeMonth": 1077,
+    "timeYear": 1077,
     "dailyMinutesDown": {}
   }
 ]
