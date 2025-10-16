@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1376,
-    "timeDay": 1780,
-    "timeWeek": 1493,
-    "timeMonth": 1376,
-    "timeYear": 1376,
+    "time": 1363,
+    "timeDay": 1139,
+    "timeWeek": 1425,
+    "timeMonth": 1363,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-10-05": 6
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/desarmerbollore.net.ico",
     "slug": "desarmer-bollo",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1239,
-    "timeDay": 1450,
-    "timeWeek": 1367,
-    "timeMonth": 1239,
-    "timeYear": 1239,
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1265,
+    "timeDay": 1705,
+    "timeWeek": 1371,
+    "timeMonth": 1265,
+    "timeYear": 1265,
     "dailyMinutesDown": {
       "2025-10-05": 7
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1077,
-    "timeDay": 1477,
-    "timeWeek": 1020,
-    "timeMonth": 1077,
-    "timeYear": 1077,
+    "time": 1066,
+    "timeDay": 898,
+    "timeWeek": 1024,
+    "timeMonth": 1066,
+    "timeYear": 1066,
     "dailyMinutesDown": {}
   }
 ]
