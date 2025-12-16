@@ -9,6 +9,8 @@ sites:
     url: https://desarmerbollore.net/
   - name : are-men-talking-too-much
     url : https://are-men-talking-too-much.outilsdelutte.net/
+  - name : Correspondances
+    url : https://correspondancespaysannes.org/
 #  - name: IPv6 test
     #url: forwardemail.net
     #port: 80
